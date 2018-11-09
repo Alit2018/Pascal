@@ -1,3 +1,11 @@
+//No functions to read data from user, no procedures, no main(), no arrays, 
+//no strings, no various datatypes, no constants, no tertial names, no conditionals, 
+//no loops, no for do loop.
+
+//Next Project is - to get user input of Names, loop through the names and arrange the names 
+//in alphabetical order by the last name by sorting the array thought the bible sort :) 
+
+
 program HellowWorld;
 
 begin
