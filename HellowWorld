@@ -1,0 +1,8 @@
+program HellowWorld;
+
+begin
+
+WriteLn('HellowWorld');
+WriteLn('Yes, HellowWorld');
+
+end.
